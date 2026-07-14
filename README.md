@@ -21,7 +21,7 @@ Para conocer más detalles técnicos, diagramas y el código fuente, visita los 
 #### 1. Arquitectura de Tres Capas en la Nube
 * **Objetivo:** Implementación de infraestructura web para la gestión estructurada de datos e inventarios en entornos de servidor.
 * **Tecnologías:** Microsoft Azure, MySQL.
-* [Ver Repositorio ↗](https://github.com/mxcarlitosmx)
+* [Ver Repositorio ↗](https://github.com/tienda-electronica-tomcat)
 
 #### 2. Simulador de Distribución de Archivos Concurrente
 * **Objetivo:** Transferencia paralela de archivos fragmentados mediante programación multihilo y sockets.
