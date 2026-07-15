@@ -1,10 +1,10 @@
-# Hola, soy Carlos Hernández 
+# Hola, soy José Carlos Hernández Pérez 
 
 Estudiante de 7mo semestre de Ingeniería en Sistemas Computacionales en la **Escuela Superior de Cómputo del Instituto Politécnico Nacional (ESCOM - IPN)**.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 - **Lenguajes de Programación:** C, Python, PHP
 - **Frameworks:** Laravel
@@ -14,7 +14,7 @@ Estudiante de 7mo semestre de Ingeniería en Sistemas Computacionales en la **Es
 
 ---
 
-### 📁 Proyectos Destacados
+### Proyectos
 
 Para conocer más detalles técnicos, diagramas y el código fuente, visita los repositorios individuales:
 
@@ -23,10 +23,11 @@ Para conocer más detalles técnicos, diagramas y el código fuente, visita los 
 * **Tecnologías:** Microsoft Azure, MySQL.
 * [Ver Repositorio ↗](https://github.com/mxcarlitosmx/tienda-electronica-tomcat)
 
-#### 2. Simulador de Distribución de Archivos Concurrente
-* **Objetivo:** Transferencia paralela de archivos fragmentados mediante programación multihilo y sockets.
-* **Tecnologías:** Python (Threading, Sockets).
-* [Ver Repositorio ↗](https://github.com/mxcarlitosmx)
+#### 2. Sanatorio San Carlos - Sistema de Gestión Hospitalaria**
+
+* **Objetivo:** Desarrollo y despliegue en la nube de un sistema integral para la administración clínica, operativa y financiera (control de caja, farmacia, y emisión de recetas digitales).
+* **Tecnologías:** Laravel 12 (PHP 8.3), MySQL 8, Bootstrap 5, Microsoft Azure (Ubuntu Server).
+* [Ver Repositorio ↗](https://github.com/mxcarlitosmx/sanatorio-san-carlos.git)
 
 #### 3. Calculadora de Subredes IP (CIDR / VLSM)
 * **Objetivo:** Automatización de algoritmos lógicos para el procesamiento dinámico y cálculo exacto de direccionamiento IPv4.
@@ -34,11 +35,3 @@ Para conocer más detalles técnicos, diagramas y el código fuente, visita los 
 * [Ver Repositorio ↗](https://github.com/mxcarlitosmx)
 
 ---
-
-### 🎯 Logros Académicos
-- 🥇 **1er Lugar Institucional en Matemáticas:** Reconocimiento académico por la resolución de problemas lógicos avanzados y habilidades analíticas a nivel medio superior.
-
----
-
-### 📫 Contacto
-- 📧 **Correo:** carlostorres2561@gmail.com
