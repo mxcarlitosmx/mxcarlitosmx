@@ -38,6 +38,6 @@ Para conocer más detalles técnicos, diagramas y el código fuente, visita los 
 #### 4. Calculadora de Subredes IP (CIDR / VLSM)
 * **Objetivo:** Automatización de algoritmos lógicos para el procesamiento dinámico y cálculo exacto de direccionamiento IPv4.
 * **Tecnologías:** C, Algoritmia.
-* [Ver Repositorio ↗](https://github.com/mxcarlitosmx)
+* [Ver Repositorio ↗](https://github.com/mxcarlitosmx/calculadora-ip.git)
 
 ---
