@@ -29,7 +29,13 @@ Para conocer más detalles técnicos, diagramas y el código fuente, visita los 
 * **Tecnologías:** Laravel 12 (PHP 8.3), MySQL 8, Bootstrap 5, Microsoft Azure (Ubuntu Server).
 * [Ver Repositorio ↗](https://github.com/mxcarlitosmx/sanatorio-san-carlos.git)
 
-#### 3. Calculadora de Subredes IP (CIDR / VLSM)
+### **3. Motor de Cifrado por Bloques (TBC) en Modo CTR**
+
+* **Objetivo:** Implementación desde cero de un algoritmo criptográfico de cifrado/descifrado a 16 bits, manejando expansión de llaves, S-Boxes dinámicas y codificación Base64 nativa.
+* **Tecnologías:** C, Criptografía.
+* [Ver Repositorio ↗](https://github.com/mxcarlitosmx/tiny-block-cipher-ctr.git)
+
+#### 4. Calculadora de Subredes IP (CIDR / VLSM)
 * **Objetivo:** Automatización de algoritmos lógicos para el procesamiento dinámico y cálculo exacto de direccionamiento IPv4.
 * **Tecnologías:** C, Algoritmia.
 * [Ver Repositorio ↗](https://github.com/mxcarlitosmx)
