@@ -40,4 +40,11 @@ Para conocer más detalles técnicos, diagramas y el código fuente, visita los 
 * **Tecnologías:** C, Algoritmia.
 * [Ver Repositorio ↗](https://github.com/mxcarlitosmx/calculadora-ip.git)
 
+#### 5. Daily Memory - Plataforma de Entrenamiento Cognitivo
+
+* **Objetivo:** Daily Memory es una plataforma web interactiva desarrollada en Laravel, que ofrece una colección de juegos diseñados para ejercitar, estimular y reforzar la memoria y agilidad mental de los usuarios.
+* **Tecnologías:** PHP (Laravel), MySQL, JavaScript, HTML5/CSS3, NPM, Arquitectura MVC.
+[Ver Repositorio ↗](https://github.com/mxcarlitosmx/Daily-Memory-.git)
+
+
 ---
